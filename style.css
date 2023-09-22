@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+html,body{
+    height: 100%;
+    width: 100%;
+
+}
+
+#A{
+    display: flex;
+    position: absolute;
+    width: 100%;
+}
+#B{
+    display: flex;
+}
+.foot{
+    background-color: bisque;
+    color: black;
+}
+.details{
+    background-color: aliceblue;
+    color: black;
+}
+.main{
+    background-color: rgb(61, 63, 59);
+    color: white;
+}
